@@ -4,6 +4,8 @@ Embedded C/C++ examples for **ESP32 sensor simulation in Wokwi**, focused on sen
 
 **Status:** Study and prototyping repository
 
+<!-- MEDIA: Adicione aqui um screenshot do Wokwi mostrando o ESP32 e um dos sensores em simulação. -->
+
 ## Sensors
 
 | Sensor | Variable | Interface |

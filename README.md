@@ -4,7 +4,17 @@ Embedded C/C++ examples for **ESP32 sensor simulation in Wokwi**, focused on sen
 
 **Status:** Study and prototyping repository
 
-<img width="1905" height="946" alt="Captura de tela 2026-10-07 180050" src="https://github.com/user-attachments/assets/93a9d101-e926-4739-8ddc-da26c0e2c27f" />
+## Simulation preview
+
+<p align="center">
+  <a href="https://wokwi.com/projects/468739374813374465">
+    <img width="90%" alt="ESP32 multi-sensor simulation in Wokwi" src="https://github.com/user-attachments/assets/93a9d101-e926-4739-8ddc-da26c0e2c27f" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wokwi.com/projects/468739374813374465"><strong>Open the interactive simulation in Wokwi</strong></a>
+</p>
 
 ## Sensors
 
@@ -58,8 +68,8 @@ The pin configuration must match each Wokwi `diagram.json`.
 
 ## Running in Wokwi
 
-1. Create or import an ESP32 project in Wokwi.
-2. Add the source code from the desired sensor directory.
+1. Open the [shared Wokwi project](https://wokwi.com/projects/468739374813374465), or create/import an ESP32 project.
+2. Add the source code from the desired sensor example.
 3. Configure the simulated component and wiring.
 4. Add external libraries when required.
 5. Start the simulation.
